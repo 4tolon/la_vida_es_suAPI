@@ -1,0 +1,1235 @@
+personaje,texto,versos,n_versos
+CLARÍN,"    En una encantada torre,
+por lo que sé, vivo preso.
+¿Qué me harán por lo que ignoro,
+si por lo que sé me han muerto?
+¡Que un hombre con tanta ha[m]bre 
+viniese a morir viviendo!
+Lástima tengo de mí.
+Todos dirán: «Bien lo creo»,
+y bien se puede creer;
+pues para mí este silencio 
+no conforma con el nombre
+Clarín, y callar no puedo.
+Quien me hace compañía
+aquí, si a decirlo acierto,
+son arañas y ratones. 
+¡Miren qué dulces jilgueros!
+De los sueños desta noche
+la triste cabeza tengo
+llena de mil chirimías,
+de trompetas y embelecos, 
+de procesiones, de cruces,
+de disciplinantes; y éstos,
+unos suben, otros bajan,
+unos se desmayan viendo
+la sangre que llevan otros. 
+
+Mas yo, la verdad diciendo,
+de no comer me desmayo;
+que en esta prisión me veo,
+donde ya todos los días
+en el filósofo leo 
+Nicomedes, y las noches
+en el concilio Niceno.
+Si llaman santo al callar,
+como en calendario nuevo,
+San Secreto es para mí, 
+pues le ayuno y no le huelgo;
+aunque está bien merecido
+el castigo que padezco,
+pues callé, siendo criado,
+que es el mayor sacrilegio. ","['    En una encantada torre,', 'por lo que sé, vivo preso.', '¿Qué me harán por lo que ignoro,', 'si por lo que sé me han muerto?', '¡Que un hombre con tanta ha[m]bre ', 'viniese a morir viviendo!', 'Lástima tengo de mí.', 'Todos dirán: «Bien lo creo»,', 'y bien se puede creer;', 'pues para mí este silencio ', 'no conforma con el nombre', 'Clarín, y callar no puedo.', 'Quien me hace compañía', 'aquí, si a decirlo acierto,', 'son arañas y ratones. ', '¡Miren qué dulces jilgueros!', 'De los sueños desta noche', 'la triste cabeza tengo', 'llena de mil chirimías,', 'de trompetas y embelecos, ', 'de procesiones, de cruces,', 'de disciplinantes; y éstos,', 'unos suben, otros bajan,', 'unos se desmayan viendo', 'la sangre que llevan otros. ', 'Mas yo, la verdad diciendo,', 'de no comer me desmayo;', 'que en esta prisión me veo,', 'donde ya todos los días', 'en el filósofo leo ', 'Nicomedes, y las noches', 'en el concilio Niceno.', 'Si llaman santo al callar,', 'como en calendario nuevo,', 'San Secreto es para mí, ', 'pues le ayuno y no le huelgo;', 'aunque está bien merecido', 'el castigo que padezco,', 'pues callé, siendo criado,', 'que es el mayor sacrilegio. ']",40
+[SOLDADO] 1.º,"Ésta es la torre en que está.
+Echad la puerta en el suelo;
+entrad todos.","['Ésta es la torre en que está.', 'Echad la puerta en el suelo;', 'entrad todos.']",3
+CLARÍN,"¡Vive Dios!
+que a mí me buscan es cierto
+pues me dicen que aquí estoy. 
+¿Qué me querrán?","['¡Vive Dios!', 'que a mí me buscan es cierto', 'pues me dicen que aquí estoy. ', '¿Qué me querrán?']",4
+[SOLDADO] 1.º,Entrad dentro.,['Entrad dentro.'],1
+[SOLDADO] 2.º,Aquí está.,['Aquí está.'],1
+CLARÍN,No está.,['No está.'],1
+TODOS,Señor...,['Señor...'],1
+CLARÍN,¿Si vienen borrachos éstos?,['¿Si vienen borrachos éstos?'],1
+[SOLDADO] 2.º,"Tú nuestro príncipe eres;
+ni admitimos ni queremos 
+sino al señor natural,
+y no príncipe extranjero.
+A todos nos da los pies.","['Tú nuestro príncipe eres;', 'ni admitimos ni queremos ', 'sino al señor natural,', 'y no príncipe extranjero.', 'A todos nos da los pies.']",5
+TODOS,¡Viva el gran príncipe n[uest]ro!,['¡Viva el gran príncipe n[uest]ro!'],1
+CLARÍN," (Aparte.)  
+¡Vive Dios, que va de veras! 
+¿Si es costumbre en este reino
+prender uno cada día
+y hacerle príncipe, y luego
+volverle a la torre? Sí,
+pues cada día lo veo; 
+fuerza es hacer mi papel.","[' (Aparte.)  ', '¡Vive Dios, que va de veras! ', '¿Si es costumbre en este reino', 'prender uno cada día', 'y hacerle príncipe, y luego', 'volverle a la torre? Sí,', 'pues cada día lo veo; ', 'fuerza es hacer mi papel.']",8
+SOLDADOS,Danos tus plantas.,['Danos tus plantas.'],1
+CLARÍN,"No puedo,
+porque las he menester
+para mí, y fuera defeto
+ser príncipe desplantado. ","['No puedo,', 'porque las he menester', 'para mí, y fuera defeto', 'ser príncipe desplantado. ']",4
+[SOLDADO] 2.º,"Todos a tu padre mesmo
+le dijimos que a ti solo
+por príncipe conocemos,
+no al de Moscovia.","['Todos a tu padre mesmo', 'le dijimos que a ti solo', 'por príncipe conocemos,', 'no al de Moscovia.']",4
+CLARÍN,"¿A mi padre
+le perdistis el respeto? 
+Sois unos tales por cuales.","['¿A mi padre', 'le perdistis el respeto? ', 'Sois unos tales por cuales.']",3
+[SOLDADO] 1.º,Fue lealtad de nuestros pechos.,['Fue lealtad de nuestros pechos.'],1
+CLARÍN,"Si fue lealtad, yo os perdono.","['Si fue lealtad, yo os perdono.']",1
+[SOLDADO] 2.º,"Sal a restaurar tu imperio.
+¡Viva Segismundo!","['Sal a restaurar tu imperio.', '¡Viva Segismundo!']",2
+TODOS,"¡Viva!
+",['¡Viva!'],1
+CLARÍN," (Aparte.)  
+¿Segismundo dicen? Bueno.
+Segismundos llaman todos
+los príncipes contrahechos.","[' (Aparte.)  ', '¿Segismundo dicen? Bueno.', 'Segismundos llaman todos', 'los príncipes contrahechos.']",4
+SEGISMUNDO,¿Quién no[m]bra aquí a Segismu[n]do?,['¿Quién no[m]bra aquí a Segismu[n]do?'],1
+CLARÍN," (Aparte.)  
+¡Mas que soy príncipe huero! ","[' (Aparte.)  ', '¡Mas que soy príncipe huero! ']",2
+[SOLDADO] 2.º,¿Quién es Segismundo?,['¿Quién es Segismundo?'],1
+SEGISMUNDO,Yo.,['Yo.'],1
+[SOLDADO] 2.º,"Pues ¿cómo, atrevido y necio,
+tú te hacías Segismundo?","['Pues ¿cómo, atrevido y necio,', 'tú te hacías Segismundo?']",2
+CLARÍN,"¿Yo Segismundo? Eso niego.
+Que vosotros fuistis quien 
+me segismundasteis; luego
+vuestra ha sido solamente
+necedad y atrevimiento.","['¿Yo Segismundo? Eso niego.', 'Que vosotros fuistis quien ', 'me segismundasteis; luego', 'vuestra ha sido solamente', 'necedad y atrevimiento.']",5
+[SOLDADO] 1.º,"Gran príncipe Segismundo
+(que las señas que traemos 
+tuyas son, aunque por fe
+te aclamamos señor nuestro),
+tu padre, el gran rey Basilio,
+temeroso que los cielos
+cumplan un hado, que dice 
+que ha de verse a tus pies puesto,
+vencido de ti, pretende
+quitarte acción y derecho
+y dársela a Astolfo, duque
+de Moscovia. Para esto 
+juntó su corte, y el vulgo,
+penetrando ya y sabiendo
+que tiene rey natural,
+no quiere que un extranjero
+venga a mandarle. Y así, 
+haciendo noble desprecio
+de la inclemencia del hado,
+te ha buscado donde preso
+vives, para que, valido
+de tus armas y saliendo 
+desta torre a restaurar
+
+tu imperial corona y cetro,
+se la quites a un tirano.
+Sal, pues; que en ese desierto
+ejército numeroso 
+de bandidos y plebeyos
+te aclama. La libertad
+te espera; oye sus acentos.","['Gran príncipe Segismundo', '(que las señas que traemos ', 'tuyas son, aunque por fe', 'te aclamamos señor nuestro),', 'tu padre, el gran rey Basilio,', 'temeroso que los cielos', 'cumplan un hado, que dice ', 'que ha de verse a tus pies puesto,', 'vencido de ti, pretende', 'quitarte acción y derecho', 'y dársela a Astolfo, duque', 'de Moscovia. Para esto ', 'juntó su corte, y el vulgo,', 'penetrando ya y sabiendo', 'que tiene rey natural,', 'no quiere que un extranjero', 'venga a mandarle. Y así, ', 'haciendo noble desprecio', 'de la inclemencia del hado,', 'te ha buscado donde preso', 'vives, para que, valido', 'de tus armas y saliendo ', 'desta torre a restaurar', 'tu imperial corona y cetro,', 'se la quites a un tirano.', 'Sal, pues; que en ese desierto', 'ejército numeroso ', 'de bandidos y plebeyos', 'te aclama. La libertad', 'te espera; oye sus acentos.']",30
+VOCES,"¡Viva Segismundo, viva!","['¡Viva Segismundo, viva!']",1
+SEGISMUNDO," (Dentro.)  
+¿Otra vez (¿qué es esto, cielos?) 
+queréis que sueñe grandezas
+que ha de deshacer el tiempo?
+¿Otra vez queréis que vea
+entre sombras y bosquejos
+la majestad y la pompa 
+desvanecida del viento?
+¿Otra vez queréis que toque
+el desengaño, o el riesgo
+a que el humano poder
+nace humilde y vive atento? 
+Pues no ha de ser, no ha de ser.
+Miradme otra vez sujeto
+a mi fortuna. Y pues sé
+que toda esta vida es sueño,
+idos, sombras, que fingís 
+hoy a mis sentidos muertos
+cuerpo y voz, siendo verdad
+que ni tenéis voz ni cuerpo;
+que no quiero majestades
+fingidas, pompas no quiero. 
+Fantásticas ilusiones
+que al soplo menos ligero
+del aura han de deshacerse
+bien como el florido almendro,
+
+que por madrugar sus flores, 
+sin aviso y sin consejo,
+al primer soplo se apagan,
+marchitando y desluciendo
+de sus rosados capillos
+belleza, luz y ornamento, 
+ya os conozco, ya os conozco,
+y sé que os pasa lo mesmo
+con cualquiera que se duerme.
+Para mí no hay fingimientos;
+que, desengañado ya, 
+sé bien que la vida es sueño.","[' (Dentro.)  ', '¿Otra vez (¿qué es esto, cielos?) ', 'queréis que sueñe grandezas', 'que ha de deshacer el tiempo?', '¿Otra vez queréis que vea', 'entre sombras y bosquejos', 'la majestad y la pompa ', 'desvanecida del viento?', '¿Otra vez queréis que toque', 'el desengaño, o el riesgo', 'a que el humano poder', 'nace humilde y vive atento? ', 'Pues no ha de ser, no ha de ser.', 'Miradme otra vez sujeto', 'a mi fortuna. Y pues sé', 'que toda esta vida es sueño,', 'idos, sombras, que fingís ', 'hoy a mis sentidos muertos', 'cuerpo y voz, siendo verdad', 'que ni tenéis voz ni cuerpo;', 'que no quiero majestades', 'fingidas, pompas no quiero. ', 'Fantásticas ilusiones', 'que al soplo menos ligero', 'del aura han de deshacerse', 'bien como el florido almendro,', 'que por madrugar sus flores, ', 'sin aviso y sin consejo,', 'al primer soplo se apagan,', 'marchitando y desluciendo', 'de sus rosados capillos', 'belleza, luz y ornamento, ', 'ya os conozco, ya os conozco,', 'y sé que os pasa lo mesmo', 'con cualquiera que se duerme.', 'Para mí no hay fingimientos;', 'que, desengañado ya, ', 'sé bien que la vida es sueño.']",38
+[SOLDADO] 2.º,"Si piensas que te engañamos,
+vuelve a ese monte soberbio
+los ojos, para que veas
+la gente que aguarda en ellos 
+para obedecerte.","['Si piensas que te engañamos,', 'vuelve a ese monte soberbio', 'los ojos, para que veas', 'la gente que aguarda en ellos ', 'para obedecerte.']",5
+SEGISMUNDO,"Ya
+otra vez vi aquesto mesmo
+tan clara y distintamente
+como agora lo estoy viendo,
+y fue sueño.","['Ya', 'otra vez vi aquesto mesmo', 'tan clara y distintamente', 'como agora lo estoy viendo,', 'y fue sueño.']",5
+[SOLDADO] 1.º,"Cosas grandes
+
+siempre, gran señor, trujeron
+anuncios; y esto sería,
+si lo soñaste primero.","['Cosas grandes', 'siempre, gran señor, trujeron', 'anuncios; y esto sería,', 'si lo soñaste primero.']",4
+SEGISMUNDO,"Dices bien, anuncio fue;
+y caso que fuese cierto, 
+pues que la vida es tan corta,
+soñemos, alma, soñemos
+otra vez; pero ha de ser
+con atención y consejo
+de que hemos de despertar 
+deste gusto al mejor tiempo;
+que llevándolo sabido,
+
+será el desengaño menos;
+que es hacer burla del daño
+adelantarle el consejo. 
+Y con esta prevención
+de que, cuando fuese cierto,
+es todo el poder prestado
+y ha de volverse a su dueño,
+atrevámonos a todo. 
+Vasallos, yo os agradezco
+la lealtad; en mí lleváis
+quien os libre, osado y diestro,
+de extranjera esclavitud.
+Tocad al arma, que presto 
+veréis mi inmenso valor.
+Contra mi padre pretendo
+tomar armas y sacar
+verdaderos a los cielos;
+presto he de verle a mis plantas. 
+  (Aparte.)  
+Mas si antes desto despierto
+¿no será bien no decirlo
+supuesto que no he de hacerlo?","['Dices bien, anuncio fue;', 'y caso que fuese cierto, ', 'pues que la vida es tan corta,', 'soñemos, alma, soñemos', 'otra vez; pero ha de ser', 'con atención y consejo', 'de que hemos de despertar ', 'deste gusto al mejor tiempo;', 'que llevándolo sabido,', 'será el desengaño menos;', 'que es hacer burla del daño', 'adelantarle el consejo. ', 'Y con esta prevención', 'de que, cuando fuese cierto,', 'es todo el poder prestado', 'y ha de volverse a su dueño,', 'atrevámonos a todo. ', 'Vasallos, yo os agradezco', 'la lealtad; en mí lleváis', 'quien os libre, osado y diestro,', 'de extranjera esclavitud.', 'Tocad al arma, que presto ', 'veréis mi inmenso valor.', 'Contra mi padre pretendo', 'tomar armas y sacar', 'verdaderos a los cielos;', 'presto he de verle a mis plantas. ', '  (Aparte.)  ', 'Mas si antes desto despierto', '¿no será bien no decirlo', 'supuesto que no he de hacerlo?']",31
+TODOS,"¡Viva Segismundo, viva!","['¡Viva Segismundo, viva!']",1
+CLOTALDO,"¿Qué alboroto es éste, cielos? ","['¿Qué alboroto es éste, cielos? ']",1
+SEGISMUNDO,Clotaldo.,['Clotaldo.'],1
+CLOTALDO,"Señor...
+  (Aparte.)  
+En mí
+su crueldad prueba.","['Señor...', '  (Aparte.)  ', 'En mí', 'su crueldad prueba.']",4
+CLARÍN," (Aparte.)  
+Yo apuesto
+que le despeña del monte.
+ (Vase.)  ","[' (Aparte.)  ', 'Yo apuesto', 'que le despeña del monte.', ' (Vase.)  ']",4
+CLOTALDO,"A tus reales plantas llego,
+ya sé que a morir.","['A tus reales plantas llego,', 'ya sé que a morir.']",2
+SEGISMUNDO,"Levanta,
+
+levanta, padre, del suelo,
+que tú has de ser norte y guía
+de quien fíe mis aciertos;
+que ya sé que mi crianza
+a tu mucha lealtad debo. 
+Dame los brazos.","['Levanta,', 'levanta, padre, del suelo,', 'que tú has de ser norte y guía', 'de quien fíe mis aciertos;', 'que ya sé que mi crianza', 'a tu mucha lealtad debo. ', 'Dame los brazos.']",7
+CLOTALDO,¿Qué dices?,['¿Qué dices?'],1
+SEGISMUNDO,"Que estoy soña[n]do, y que quiero
+obrar bien, pues no se pierde
+obrar bien, aun entre sueños.","['Que estoy soña[n]do, y que quiero', 'obrar bien, pues no se pierde', 'obrar bien, aun entre sueños.']",3
+CLOTALDO,"Pues, señor, si el obrar bien 
+es ya tu blasón, es cierto
+que no te ofenda el que yo
+hoy solicite lo mesmo.
+A tu padre has de hacer guerra.
+Yo aconsejarte no puedo 
+contra mi Rey, ni valerte.
+A tus plantas estoy puesto;
+dame la muerte.","['Pues, señor, si el obrar bien ', 'es ya tu blasón, es cierto', 'que no te ofenda el que yo', 'hoy solicite lo mesmo.', 'A tu padre has de hacer guerra.', 'Yo aconsejarte no puedo ', 'contra mi Rey, ni valerte.', 'A tus plantas estoy puesto;', 'dame la muerte.']",9
+SEGISMUNDO,"¡Villano,
+traidor, ingrato!
+ (Aparte.)  
+Mas ¡cielos!
+reportarme me conviene, 
+que aún no sé si estoy despierto.
+Clotaldo, vuestro valor
+os envidio y agradezco.
+Idos a servir al Rey,
+que en el campo nos veremos. 
+Vosotros, tocad el arma.","['¡Villano,', 'traidor, ingrato!', ' (Aparte.)  ', 'Mas ¡cielos!', 'reportarme me conviene, ', 'que aún no sé si estoy despierto.', 'Clotaldo, vuestro valor', 'os envidio y agradezco.', 'Idos a servir al Rey,', 'que en el campo nos veremos. ', 'Vosotros, tocad el arma.']",11
+CLOTALDO,"Mil veces tus plantas beso.
+ (Vase.)  ","['Mil veces tus plantas beso.', ' (Vase.)  ']",2
+SEGISMUNDO,"A reinar, fortuna, vamos;
+no me despiertes, si duermo,
+y si es verdad, no me duermas. 
+Mas, sea verdad o sueño,
+obrar bien es lo que importa.
+
+Si fuere verdad, por serlo;
+si no, por ganar amigos
+para cuando despertemos. ","['A reinar, fortuna, vamos;', 'no me despiertes, si duermo,', 'y si es verdad, no me duermas. ', 'Mas, sea verdad o sueño,', 'obrar bien es lo que importa.', 'Si fuere verdad, por serlo;', 'si no, por ganar amigos', 'para cuando despertemos. ']",8
+BASILIO,"    ¿Quién, Astolfo, podrá parar prudente
+la furia de un caballo desbocado?
+¿Quién detener de un río la corriente
+que corre al mar, soberbio y despeñado?
+¿Quién un peñasco suspender, valiente, 
+de la cima de un monte, desgajado?
+Pues todo fácil de parar ha sido,
+y un vulgo no, soberbio y atrevido.
+    Dígalo en bandos el rumor partido,
+pues se oye resonar en lo profundo 
+de los montes el eco repetido,
+unos «Astolfo» y otros «Segismundo».
+El dosel de la jura, reducido
+a segunda intención, a horror segundo,
+teatro funesto es, donde importuna 
+representa tragedias la fortuna.","['    ¿Quién, Astolfo, podrá parar prudente', 'la furia de un caballo desbocado?', '¿Quién detener de un río la corriente', 'que corre al mar, soberbio y despeñado?', '¿Quién un peñasco suspender, valiente, ', 'de la cima de un monte, desgajado?', 'Pues todo fácil de parar ha sido,', 'y un vulgo no, soberbio y atrevido.', '    Dígalo en bandos el rumor partido,', 'pues se oye resonar en lo profundo ', 'de los montes el eco repetido,', 'unos «Astolfo» y otros «Segismundo».', 'El dosel de la jura, reducido', 'a segunda intención, a horror segundo,', 'teatro funesto es, donde importuna ', 'representa tragedias la fortuna.']",16
+ASTOLFO,"    Suspéndase, señor, el alegría,
+cese el aplauso y gusto lisonjero
+
+que tu mano feliz me prometía;
+que si Polonia (a quien mandar espero) 
+hoy se resiste a la obediencia mía,
+es porque la merezca yo primero.
+Dadme un caballo, y de arrogancia lleno
+rayo descienda el que blasona trueno.
+ (Vase.) ","['    Suspéndase, señor, el alegría,', 'cese el aplauso y gusto lisonjero', 'que tu mano feliz me prometía;', 'que si Polonia (a quien mandar espero) ', 'hoy se resiste a la obediencia mía,', 'es porque la merezca yo primero.', 'Dadme un caballo, y de arrogancia lleno', 'rayo descienda el que blasona trueno.', ' (Vase.) ']",9
+BASILIO,"    Poco reparo tiene lo infalible, 
+y mucho riesgo lo previsto tiene;
+si ha de ser, la defensa es imposible,
+que quien la excusa más, más la previene.
+¡Dura ley! ¡Fuerte caso! ¡Horror terrible!
+Quien piensa que huye el riesgo, al riesgo viene, 
+con lo que yo guardaba me he perdido;
+yo mismo, yo mi patria he destrüido.","['    Poco reparo tiene lo infalible, ', 'y mucho riesgo lo previsto tiene;', 'si ha de ser, la defensa es imposible,', 'que quien la excusa más, más la previene.', '¡Dura ley! ¡Fuerte caso! ¡Horror terrible!', 'Quien piensa que huye el riesgo, al riesgo viene, ', 'con lo que yo guardaba me he perdido;', 'yo mismo, yo mi patria he destrüido.']",8
+ESTRELLA,"    Si tu presencia, gran señor, no trata
+de enfrenar el tumulto sucedido,
+que de uno en otro bando se dilata, 
+por las calles y plazas dividido,
+verás tu reino en ondas de escarlata
+nadar, entre la púrpura teñido
+de su sangre; que ya con triste modo,
+todo es desdichas y tragedias todo. 
+    Tanta es la ruina de tu imperio, tanta
+la fuerza del rigor duro y sangriento,
+que visto admira y escuchado espanta.
+El sol se turba y se embaraza el viento;
+cada piedra una pirámide levanta 
+y cada flor construye un monumento;
+cada edificio es un sepulcro altivo,
+cada soldado un esqueleto vivo.","['    Si tu presencia, gran señor, no trata', 'de enfrenar el tumulto sucedido,', 'que de uno en otro bando se dilata, ', 'por las calles y plazas dividido,', 'verás tu reino en ondas de escarlata', 'nadar, entre la púrpura teñido', 'de su sangre; que ya con triste modo,', 'todo es desdichas y tragedias todo. ', '    Tanta es la ruina de tu imperio, tanta', 'la fuerza del rigor duro y sangriento,', 'que visto admira y escuchado espanta.', 'El sol se turba y se embaraza el viento;', 'cada piedra una pirámide levanta ', 'y cada flor construye un monumento;', 'cada edificio es un sepulcro altivo,', 'cada soldado un esqueleto vivo.']",16
+CLOTALDO,    ¡Gracias a Dios que vivo a tus pies llego!,['    ¡Gracias a Dios que vivo a tus pies llego!'],1
+BASILIO,"Clotaldo, pues ¿qué hay de Segismundo? ","['Clotaldo, pues ¿qué hay de Segismundo? ']",1
+CLOTALDO,"Que el vulgo, monstruo despeñado y ciego,
+la torre penetró, y de lo profundo
+della sacó su príncipe, que luego
+que vio segunda vez su honor segundo,
+valiente se mostró, diciendo fiero 
+que ha de sacar al cielo verdadero.","['Que el vulgo, monstruo despeñado y ciego,', 'la torre penetró, y de lo profundo', 'della sacó su príncipe, que luego', 'que vio segunda vez su honor segundo,', 'valiente se mostró, diciendo fiero ', 'que ha de sacar al cielo verdadero.']",6
+BASILIO,"    Dadme un caballo, porque yo en persona
+vencer valiente a un hijo ingrato quiero;
+y en la defensa ya de mi corona,
+lo que la ciencia erró venza el acero. 
+ (Vase.) ","['    Dadme un caballo, porque yo en persona', 'vencer valiente a un hijo ingrato quiero;', 'y en la defensa ya de mi corona,', 'lo que la ciencia erró venza el acero. ', ' (Vase.) ']",5
+ESTRELLA,"Pues yo al lado del sol seré Belona.
+Poner mi nombre junto al tuyo espero;
+que he de volar sobre tendidas alas
+a competir con la deidad de Palas.","['Pues yo al lado del sol seré Belona.', 'Poner mi nombre junto al tuyo espero;', 'que he de volar sobre tendidas alas', 'a competir con la deidad de Palas.']",4
+ROSAURA,"    Aunque el valor q[ue] se encierra 
+en tu pecho desde allí
+dé voces, óyeme a mí;
+que yo sé que todo es guerra.
+    Ya sabes que yo llegué
+pobre, humilde y desdichada 
+a Polonia, y amparada
+de tu valor, en ti hallé
+    piedad. Mandásteme ¡ay cielos!
+
+que disfrazada viviese
+en palacio, y pretendiese, 
+disimulando mis celos,
+    guardarme de Astolfo. En fin
+él me vio, y tanto atropella
+mi honor q[ue], viéndome, a Estrella
+de noche habla en un jardín. 
+    Déste la llave he tomado,
+y te podrá dar lugar
+de que en él puedas entrar
+a dar fin a mi cuidado.
+    Aquí altivo, osado y fuerte, 
+volver por honor podrás,
+pues que ya resuelto estás
+a vengarme con su muerte.","['    Aunque el valor q[ue] se encierra ', 'en tu pecho desde allí', 'dé voces, óyeme a mí;', 'que yo sé que todo es guerra.', '    Ya sabes que yo llegué', 'pobre, humilde y desdichada ', 'a Polonia, y amparada', 'de tu valor, en ti hallé', '    piedad. Mandásteme ¡ay cielos!', 'que disfrazada viviese', 'en palacio, y pretendiese, ', 'disimulando mis celos,', '    guardarme de Astolfo. En fin', 'él me vio, y tanto atropella', 'mi honor q[ue], viéndome, a Estrella', 'de noche habla en un jardín. ', '    Déste la llave he tomado,', 'y te podrá dar lugar', 'de que en él puedas entrar', 'a dar fin a mi cuidado.', '    Aquí altivo, osado y fuerte, ', 'volver por honor podrás,', 'pues que ya resuelto estás', 'a vengarme con su muerte.']",24
+CLOTALDO,"    Verdad es que me incliné,
+desde el punto que te vi, 
+a hacer, Rosaura, por ti
+(testigo tu llanto fue)
+    cuanto mi vida pudiese.
+Lo primero que intenté
+quitarte aquel traje fue, 
+porque, si Astolfo te viese,
+    te viese en tu propio traje,
+sin juzgar a liviandad
+la loca temeridad
+que hace del honor ultraje. 
+    En este tiempo trazaba
+cómo cobrar se pudiese
+tu honor perdido, aunque fuese
+(tanto tu honor me arrestaba)
+    dando muerte a Astolfo. ¡Mira 
+qué caduco desvarío!
+Si bien, no siendo rey mío,
+ni me asombra ni me admira.
+    Darle pensé muerte, cuando
+Segismundo pretendió 
+dármela a mí, y él llegó,
+
+su peligro atropellando,
+    a hacer en defensa mía
+muestras de su voluntad
+que fueron temeridad, 
+pasando de valentía.
+    Pues, ¿cómo yo agora (advierte),
+teniendo alma agradecida,
+a quien me ha dado la vida
+le tengo que dar la muerte? 
+    Y así, entre los dos partido
+el efeto y el cuidado,
+viendo que a ti te la he dado,
+y que dél la he recibido,
+    no sé a qué parte acudir, 
+no sé qué parte ayudar;
+si a ti me obligué con dar,
+dél lo estoy con recibir.
+    Y así, en la acción que se ofrece,
+nada a mi amor satisface, 
+porque soy persona que hace
+y persona que padece.","['    Verdad es que me incliné,', 'desde el punto que te vi, ', 'a hacer, Rosaura, por ti', '(testigo tu llanto fue)', '    cuanto mi vida pudiese.', 'Lo primero que intenté', 'quitarte aquel traje fue, ', 'porque, si Astolfo te viese,', '    te viese en tu propio traje,', 'sin juzgar a liviandad', 'la loca temeridad', 'que hace del honor ultraje. ', '    En este tiempo trazaba', 'cómo cobrar se pudiese', 'tu honor perdido, aunque fuese', '(tanto tu honor me arrestaba)', '    dando muerte a Astolfo. ¡Mira ', 'qué caduco desvarío!', 'Si bien, no siendo rey mío,', 'ni me asombra ni me admira.', '    Darle pensé muerte, cuando', 'Segismundo pretendió ', 'dármela a mí, y él llegó,', 'su peligro atropellando,', '    a hacer en defensa mía', 'muestras de su voluntad', 'que fueron temeridad, ', 'pasando de valentía.', '    Pues, ¿cómo yo agora (advierte),', 'teniendo alma agradecida,', 'a quien me ha dado la vida', 'le tengo que dar la muerte? ', '    Y así, entre los dos partido', 'el efeto y el cuidado,', 'viendo que a ti te la he dado,', 'y que dél la he recibido,', '    no sé a qué parte acudir, ', 'no sé qué parte ayudar;', 'si a ti me obligué con dar,', 'dél lo estoy con recibir.', '    Y así, en la acción que se ofrece,', 'nada a mi amor satisface, ', 'porque soy persona que hace', 'y persona que padece.']",44
+ROSAURA,"    No tengo que prevenir
+que en un varón singular,
+cuanto es noble acción el dar 
+es bajeza el recibir.
+    Y este principio asentado,
+no has de estarle agradecido,
+supuesto que si él ha sido
+el que la vida te ha dado, 
+    y tú a mí, evidente cosa
+es que él forzó tu nobleza
+a que hiciese una bajeza,
+y yo una acción generosa.
+    Luego estás dél ofendido, 
+luego estás de mí obligado,
+supuesto que a mí me has dado
+lo que dél has recibido;
+    y así debes acudir
+
+a mi honor en riesgo tanto, 
+pues yo le prefiero cuanto
+va de dar a recibir.","['    No tengo que prevenir', 'que en un varón singular,', 'cuanto es noble acción el dar ', 'es bajeza el recibir.', '    Y este principio asentado,', 'no has de estarle agradecido,', 'supuesto que si él ha sido', 'el que la vida te ha dado, ', '    y tú a mí, evidente cosa', 'es que él forzó tu nobleza', 'a que hiciese una bajeza,', 'y yo una acción generosa.', '    Luego estás dél ofendido, ', 'luego estás de mí obligado,', 'supuesto que a mí me has dado', 'lo que dél has recibido;', '    y así debes acudir', 'a mi honor en riesgo tanto, ', 'pues yo le prefiero cuanto', 'va de dar a recibir.']",20
+CLOTALDO,"    Aunque la nobleza vive
+de la parte del que da,
+el agradecerla está 
+de parte del que recibe;
+    y pues ya dar he sabido,
+ya tengo con nombre honroso
+el nombre de generoso.
+Déjame el de agradecido, 
+    pues le puedo conseguir
+siendo agradecido cuanto
+liberal, pues honra tanto
+el dar como el recibir.","['    Aunque la nobleza vive', 'de la parte del que da,', 'el agradecerla está ', 'de parte del que recibe;', '    y pues ya dar he sabido,', 'ya tengo con nombre honroso', 'el nombre de generoso.', 'Déjame el de agradecido, ', '    pues le puedo conseguir', 'siendo agradecido cuanto', 'liberal, pues honra tanto', 'el dar como el recibir.']",12
+ROSAURA,"    De ti recibí la vida, 
+y tú mismo me dijiste,
+cuando la vida me diste,
+que la que estaba ofendida
+    no era vida. Luego yo
+nada de ti he recibido; 
+pues muerte, no vida, ha sido
+la que tu mano me dio.
+    Y si debes ser primero
+liberal que agradecido
+(como de ti mismo he oído), 
+que me des la vida espero,
+    que no me la has dado, y pues
+el dar engrandece más,
+sé antes liberal; serás
+agradecido después. ","['    De ti recibí la vida, ', 'y tú mismo me dijiste,', 'cuando la vida me diste,', 'que la que estaba ofendida', '    no era vida. Luego yo', 'nada de ti he recibido; ', 'pues muerte, no vida, ha sido', 'la que tu mano me dio.', '    Y si debes ser primero', 'liberal que agradecido', '(como de ti mismo he oído), ', 'que me des la vida espero,', '    que no me la has dado, y pues', 'el dar engrandece más,', 'sé antes liberal; serás', 'agradecido después. ']",16
+CLOTALDO,"    Vencido de tu argumento,
+antes liberal seré.
+Yo, Rosaura, te daré
+mi hacienda, y en un convento
+    vive; que está bien pensado 
+el medio que solicito;
+pues huyendo de un delito
+
+te recoges a un sagrado;
+    que cuando, tan dividido,
+el reino desdichas siente, 
+no he de ser quien las aumente,
+habiendo noble nacido.
+    Con el remedio elegido
+soy con el reino leal,
+soy contigo liberal, 
+con Astolfo agradecido;
+    y así escogerle te cuadre,
+quedándose entre los dos,
+que no hiciera ¡vive Dios!
+más, cuando fuera tu padre. ","['    Vencido de tu argumento,', 'antes liberal seré.', 'Yo, Rosaura, te daré', 'mi hacienda, y en un convento', '    vive; que está bien pensado ', 'el medio que solicito;', 'pues huyendo de un delito', 'te recoges a un sagrado;', '    que cuando, tan dividido,', 'el reino desdichas siente, ', 'no he de ser quien las aumente,', 'habiendo noble nacido.', '    Con el remedio elegido', 'soy con el reino leal,', 'soy contigo liberal, ', 'con Astolfo agradecido;', '    y así escogerle te cuadre,', 'quedándose entre los dos,', 'que no hiciera ¡vive Dios!', 'más, cuando fuera tu padre. ']",20
+ROSAURA,"    Cuando tú mi padre fueras,
+sufriera esa injuria yo;
+pero no siéndolo, no.","['    Cuando tú mi padre fueras,', 'sufriera esa injuria yo;', 'pero no siéndolo, no.']",3
+CLOTALDO,Pues ¿qué es lo q[ue] hacer esperas?,['Pues ¿qué es lo q[ue] hacer esperas?'],1
+ROSAURA,    Matar al Duque.,['    Matar al Duque.'],1
+CLOTALDO,"Una dama
+
+que padre no ha conocido
+¿tanto valor ha tenido?","['Una dama', 'que padre no ha conocido', '¿tanto valor ha tenido?']",3
+ROSAURA,Sí.,['Sí.'],1
+CLOTALDO,¿Quién te alienta?,['¿Quién te alienta?'],1
+ROSAURA,Mi fama.,['Mi fama.'],1
+CLOTALDO,Mira que a Astolfo has de ver...,['Mira que a Astolfo has de ver...'],1
+ROSAURA,Todo mi honor lo atropella. ,['Todo mi honor lo atropella. '],1
+CLOTALDO,"...tu rey, y esposo de Estrella.","['...tu rey, y esposo de Estrella.']",1
+ROSAURA,¡Vive Dios que no ha de ser!,['¡Vive Dios que no ha de ser!'],1
+CLOTALDO,    Es locura.,['    Es locura.'],1
+ROSAURA,Ya lo veo.,['Ya lo veo.'],1
+CLOTALDO,Pues véncela.,['Pues véncela.'],1
+ROSAURA,No podré.,['No podré.'],1
+CLOTALDO,Pues perderás...,['Pues perderás...'],1
+ROSAURA,"Ya lo sé.
+",['Ya lo sé.'],1
+CLOTALDO,...vida y honor.,['...vida y honor.'],1
+ROSAURA,Bien lo creo.,['Bien lo creo.'],1
+CLOTALDO,    ¿Qué intentas?,['    ¿Qué intentas?'],1
+ROSAURA,Mi muerte.,['Mi muerte.'],1
+CLOTALDO,"Mira
+que eso es despecho.","['Mira', 'que eso es despecho.']",2
+ROSAURA,Es honor.,['Es honor.'],1
+CLOTALDO,Es desatino.,['Es desatino.'],1
+ROSAURA,Es valor.,['Es valor.'],1
+CLOTALDO,Es frenesí.,['Es frenesí.'],1
+ROSAURA,"Es rabia, es ira.
+","['Es rabia, es ira.']",1
+CLOTALDO,"    En fin, ¿que no se da medio
+a tu ciega pasión?","['    En fin, ¿que no se da medio', 'a tu ciega pasión?']",2
+ROSAURA,No.,['No.'],1
+CLOTALDO,¿Quién ha de ayudarte?,['¿Quién ha de ayudarte?'],1
+ROSAURA,Yo.,['Yo.'],1
+CLOTALDO,¿No hay remedio?,['¿No hay remedio?'],1
+ROSAURA,No hay remedio.,['No hay remedio.'],1
+CLOTALDO,    Piensa bien si hay otros modos... ,['    Piensa bien si hay otros modos... '],1
+ROSAURA,"Perderme de otra manera.
+ (Vase.) ","['Perderme de otra manera.', ' (Vase.) ']",2
+CLOTALDO,"Pues has de perderte, espera,
+hija, y perdámonos todos.
+ (Vase.) ","['Pues has de perderte, espera,', 'hija, y perdámonos todos.', ' (Vase.) ']",3
+SEGISMUNDO,"    Si este día me viera
+Roma en los triunfos de su edad primera, 
+¡oh, cuánto se alegrara,
+viendo lograr una ocasión tan rara
+de tener una fiera
+que sus grandes ejércitos rigiera,
+
+a cuyo altivo aliento 
+fuera poca conquista el firmamento!
+Pero el vuelo abatamos,
+espíritu. No así desvanezcamos
+aqueste aplauso incierto,
+si ha de pesarme cuando esté despierto 
+de haberlo conseguido
+para haberlo perdido;
+pues mientras menos fuere
+menos se sentirá si se perdiere.","['    Si este día me viera', 'Roma en los triunfos de su edad primera, ', '¡oh, cuánto se alegrara,', 'viendo lograr una ocasión tan rara', 'de tener una fiera', 'que sus grandes ejércitos rigiera,', 'a cuyo altivo aliento ', 'fuera poca conquista el firmamento!', 'Pero el vuelo abatamos,', 'espíritu. No así desvanezcamos', 'aqueste aplauso incierto,', 'si ha de pesarme cuando esté despierto ', 'de haberlo conseguido', 'para haberlo perdido;', 'pues mientras menos fuere', 'menos se sentirá si se perdiere.']",16
+CLARÍN,"En un veloz caballo 
+(perdóname, que fuerza es el pintallo
+en viniéndome a cuento),
+en quien un mapa se dibuja atento,
+pues el cuerpo es la tierra,
+el fuego el alma que en el pecho encierra, 
+la espuma el mar, el aire su suspiro,
+en cuya confusión un caos admiro,
+pues en el alma, espuma, cuerpo, aliento,
+monstruo es de fuego, tierra, mar y viento,
+de color remendado, 
+rucio, y a su propósito rodado
+del que bate la espuela
+y en vez de correr vuela,
+
+a tu presencia llega
+airosa una mujer.","['En un veloz caballo ', '(perdóname, que fuerza es el pintallo', 'en viniéndome a cuento),', 'en quien un mapa se dibuja atento,', 'pues el cuerpo es la tierra,', 'el fuego el alma que en el pecho encierra, ', 'la espuma el mar, el aire su suspiro,', 'en cuya confusión un caos admiro,', 'pues en el alma, espuma, cuerpo, aliento,', 'monstruo es de fuego, tierra, mar y viento,', 'de color remendado, ', 'rucio, y a su propósito rodado', 'del que bate la espuela', 'y en vez de correr vuela,', 'a tu presencia llega', 'airosa una mujer.']",16
+SEGISMUNDO,"Su luz me ciega.
+",['Su luz me ciega.'],1
+CLARÍN,"¡Vive Dios que es Rosaura!
+ (Vase.) ","['¡Vive Dios que es Rosaura!', ' (Vase.) ']",2
+SEGISMUNDO,El cielo a mi presencia la restaura.,['El cielo a mi presencia la restaura.'],1
+ROSAURA,"    Generoso Segismundo,
+cuya majestad heroica
+sale al día de sus hechos 
+de la noche de sus sombras;
+y como el mayor planeta
+que en los brazos de la aurora
+se restituye luciente
+a las flores y a las rosas, 
+y sobre mares y montes,
+cuando coronado asoma,
+luz esparce, rayos brilla,
+cumbres baña, espumas borda;
+así amanezcas al mundo, 
+luciente sol de Polonia,
+que a una mujer infelice,
+que hoy a tus plantas se arroja,
+ampares por ser mujer
+
+y desdichada, dos cosas 
+que, para obligar a un hombre
+que de valiente blasona,
+cualquiera de las dos basta,
+de las dos cualquiera sobra.
+Tres veces son las que ya 
+me admiras, tres las que ignoras
+quién soy, pues las tres me has visto
+en diverso traje y forma.
+La primera me creíste
+varón, en la rigurosa 
+prisión, donde fue tu vida
+de mis desdichas lisonja.
+La segunda me admiraste
+mujer, cuando fue la pompa
+de tu majestad un sueño, 
+una fantasma, una sombra.
+La tercera es hoy, que siendo
+monstruo de una especie y otra,
+entre galas de mujer
+armas de varón me adornan. 
+Y porque compadecido
+mejor mi amparo dispongas,
+es bien que de mis sucesos
+trágicas fortunas oigas.
+De noble madre nací 
+en la corte de Moscovia,
+que, según fue desdichada,
+debió de ser muy hermosa.
+En ésta puso los ojos
+un traidor, que no le nombra 
+mi voz por no conocerle,
+de cuyo valor me informa
+el mío; pues siendo objeto
+de su idea, siento agora
+no haber nacido gentil, 
+para persuadirme loca,
+a que fue algún dios de aquellos
+
+que en metamorfosis lloran,
+lluvia de oro, cisne y toro,
+Dánae, Leda y Europa. 
+Cuando pensé que alargaba,
+citando aleves historias,
+el discurso, hallo que en él
+te he dicho en razones pocas
+que mi madre, persuadida 
+a finezas amorosas,
+fue como ninguna bella,
+y fue infeliz como todas.
+Aquella necia disculpa
+de fe y palabra de esposa 
+la alcanza tanto que aun hoy
+el pensamiento la cobra,
+habiendo sido un tirano
+tan Eneas de su honra
+que la dejó hasta la espada. 
+Enváinese aquí su hoja,
+que yo la desnudaré
+antes que acabe la historia.
+Deste, pues, mal dado nudo
+que ni ata ni aprisiona, 
+o matrimonio o delito,
+
+si bien todo es una cosa,
+nací yo tan parecida,
+que fui un retrato, una copia,
+ya que en la hermosura no, 
+en la dicha y en las obras;
+y así no habré menester
+decir que, poco dichosa
+heredera de fortunas,
+corrí con ella una propia. 
+Lo más que podré decirte
+de mí es el dueño que roba
+los trofeos de mi honor,
+los despojos de mi honra.
+Astolfo... ¡Ay de mí!, al nombrarle 
+se encoleriza y se enoja
+el corazón, propio efeto
+de que enemigo se nombra.
+Astolfo fue el dueño ingrato
+que olvidado de las glorias 
+(porque en un pasado amor
+se olvida hasta la memoria),
+vino a Polonia, llamado
+de su conquista famosa,
+a casarse con Estrella, 
+que fue de mi ocaso antorcha.
+¿Quién creerá que, habiendo sido
+una Estrella quien conforma
+dos amantes, sea una Estrella
+la que los divida agora? 
+Yo ofendida, yo burlada,
+quedé triste, quedé loca,
+quedé muerta, quedé yo,
+que es decir que quedó toda
+la confusión del infierno 
+cifrada en mi Babilonia;
+
+y declarándome muda
+(porque hay penas y congojas
+que las dicen los afectos
+mucho mejor que la boca) 
+dije mis penas callando,
+hasta que una vez a solas
+Violante mi madre ¡ay cielos!
+rompió la prisión, y en tropa
+del pecho salieron juntas, 
+tropezando unas con otras.
+No me embaracé en decirlas;
+que en sabiendo una persona
+que a quien sus flaquezas cuenta
+ha sido cómplice en otras, 
+parece que ya le hace
+la salva y le desahoga;
+que a veces el mal ejemplo
+sirve de algo. En fin, piadosa
+oyó mis quejas, y quiso 
+consolarme con las propias.
+Juez que ha sido delincuente,
+¡qué fácilmente perdona!
+Y escarmentando en sí misma
+(que por dejar a la ociosa 
+libertad, al tiempo fácil
+el remedio de su honra,
+no le tuvo en mis desdichas),
+por mejor consejo toma
+que le siga y que le obligue, 
+con finezas prodigiosas,
+a la deuda de mi honor;
+y para que a menos costa
+
+fuese, quiso mi fortuna
+q[ue] en traje de hombre me ponga. 
+Descolgó una antigua espada
+que es ésta que ciño. Agora
+es tiempo que se desnude,
+como prometí, la hoja,
+pues confiada en sus señas 
+me dijo: «Parte a Polonia,
+y procura que te vean
+ese acero que te adorna
+los más nobles; que en alguno
+podrá ser que hallen piadosa 
+acogida tus fortunas
+y consuelo tus congojas.»
+Llegué a Polonia en efeto.
+Pasemos, pues que no importa
+el decirlo, y ya se sabe 
+que un bruto que se desboca
+me llevó a tu cueva, adonde
+tú de mirarme te asombras.
+Pasemos que allí Clotaldo
+de mi parte se apasiona, 
+que pide mi vida al Rey,
+que el Rey mi vida le otorga,
+que informado de quién soy,
+me persuade a que me ponga
+mi propio traje, y que sirva 
+a Estrella, donde ingeniosa
+estorbé el amor de Astolfo
+y el ser Estrella su esposa.
+Pasemos que aquí me viste
+otra vez confuso, y otra 
+con el traje de mujer
+confundiste entrambas formas;
+y vamos a que Clotaldo,
+persuadido a que le importa
+que se casen y que reinen 
+Astolfo y Estrella hermosa,
+
+contra mi honor me aconseja
+que la pretensión disponga.
+Yo, viendo que tú, ¡oh valiente
+Segismundo!, a quien hoy toca 
+la venganza, pues el cielo
+quiere que la cárcel rompas
+desa rústica prisión,
+donde ha sido tu persona
+al sentimiento una fiera, 
+al sufrimiento una roca,
+las armas contra tu patria
+y contra tu padre tomas,
+vengo a ayudarte, mezclando
+entre las galas costosas 
+de Dïana, los arneses
+de Palas, vistiendo agora
+ya la tela y ya el acero,
+q[ue] entrambos juntos me adornan.
+Ea, pues, fuerte caudillo, 
+a los dos juntos importa
+impedir y deshacer
+estas concertadas bodas;
+a mí porque no se case
+el que mi esposo se nombra, 
+y a ti porque, estando juntos
+sus dos estados, no pongan
+con más poder y más fuerza
+en duda nuestra vitoria.
+Mujer, vengo a persuadirte 
+el remedio de mi honra,
+y varón, vengo a alentarte
+a que cobres tu corona.
+Mujer, vengo a enternecerte
+
+cuando a tus plantas me ponga, 
+y varón, vengo a servirte
+cuando a tus gentes socorra.
+Mujer, vengo a que me valgas
+en mi agravio y mi congoja,
+y varón, vengo a valerte 
+con mi acero y mi persona.
+Y así piensa que si hoy
+como a mujer me enamoras,
+como varón te daré
+la muerte en defensa honrosa 
+de mi honor; porque he de ser,
+en su conquista, amorosa,
+mujer para darte quejas,
+varón para ganar honras.","['    Generoso Segismundo,', 'cuya majestad heroica', 'sale al día de sus hechos ', 'de la noche de sus sombras;', 'y como el mayor planeta', 'que en los brazos de la aurora', 'se restituye luciente', 'a las flores y a las rosas, ', 'y sobre mares y montes,', 'cuando coronado asoma,', 'luz esparce, rayos brilla,', 'cumbres baña, espumas borda;', 'así amanezcas al mundo, ', 'luciente sol de Polonia,', 'que a una mujer infelice,', 'que hoy a tus plantas se arroja,', 'ampares por ser mujer', 'y desdichada, dos cosas ', 'que, para obligar a un hombre', 'que de valiente blasona,', 'cualquiera de las dos basta,', 'de las dos cualquiera sobra.', 'Tres veces son las que ya ', 'me admiras, tres las que ignoras', 'quién soy, pues las tres me has visto', 'en diverso traje y forma.', 'La primera me creíste', 'varón, en la rigurosa ', 'prisión, donde fue tu vida', 'de mis desdichas lisonja.', 'La segunda me admiraste', 'mujer, cuando fue la pompa', 'de tu majestad un sueño, ', 'una fantasma, una sombra.', 'La tercera es hoy, que siendo', 'monstruo de una especie y otra,', 'entre galas de mujer', 'armas de varón me adornan. ', 'Y porque compadecido', 'mejor mi amparo dispongas,', 'es bien que de mis sucesos', 'trágicas fortunas oigas.', 'De noble madre nací ', 'en la corte de Moscovia,', 'que, según fue desdichada,', 'debió de ser muy hermosa.', 'En ésta puso los ojos', 'un traidor, que no le nombra ', 'mi voz por no conocerle,', 'de cuyo valor me informa', 'el mío; pues siendo objeto', 'de su idea, siento agora', 'no haber nacido gentil, ', 'para persuadirme loca,', 'a que fue algún dios de aquellos', 'que en metamorfosis lloran,', 'lluvia de oro, cisne y toro,', 'Dánae, Leda y Europa. ', 'Cuando pensé que alargaba,', 'citando aleves historias,', 'el discurso, hallo que en él', 'te he dicho en razones pocas', 'que mi madre, persuadida ', 'a finezas amorosas,', 'fue como ninguna bella,', 'y fue infeliz como todas.', 'Aquella necia disculpa', 'de fe y palabra de esposa ', 'la alcanza tanto que aun hoy', 'el pensamiento la cobra,', 'habiendo sido un tirano', 'tan Eneas de su honra', 'que la dejó hasta la espada. ', 'Enváinese aquí su hoja,', 'que yo la desnudaré', 'antes que acabe la historia.', 'Deste, pues, mal dado nudo', 'que ni ata ni aprisiona, ', 'o matrimonio o delito,', 'si bien todo es una cosa,', 'nací yo tan parecida,', 'que fui un retrato, una copia,', 'ya que en la hermosura no, ', 'en la dicha y en las obras;', 'y así no habré menester', 'decir que, poco dichosa', 'heredera de fortunas,', 'corrí con ella una propia. ', 'Lo más que podré decirte', 'de mí es el dueño que roba', 'los trofeos de mi honor,', 'los despojos de mi honra.', 'Astolfo... ¡Ay de mí!, al nombrarle ', 'se encoleriza y se enoja', 'el corazón, propio efeto', 'de que enemigo se nombra.', 'Astolfo fue el dueño ingrato', 'que olvidado de las glorias ', '(porque en un pasado amor', 'se olvida hasta la memoria),', 'vino a Polonia, llamado', 'de su conquista famosa,', 'a casarse con Estrella, ', 'que fue de mi ocaso antorcha.', '¿Quién creerá que, habiendo sido', 'una Estrella quien conforma', 'dos amantes, sea una Estrella', 'la que los divida agora? ', 'Yo ofendida, yo burlada,', 'quedé triste, quedé loca,', 'quedé muerta, quedé yo,', 'que es decir que quedó toda', 'la confusión del infierno ', 'cifrada en mi Babilonia;', 'y declarándome muda', '(porque hay penas y congojas', 'que las dicen los afectos', 'mucho mejor que la boca) ', 'dije mis penas callando,', 'hasta que una vez a solas', 'Violante mi madre ¡ay cielos!', 'rompió la prisión, y en tropa', 'del pecho salieron juntas, ', 'tropezando unas con otras.', 'No me embaracé en decirlas;', 'que en sabiendo una persona', 'que a quien sus flaquezas cuenta', 'ha sido cómplice en otras, ', 'parece que ya le hace', 'la salva y le desahoga;', 'que a veces el mal ejemplo', 'sirve de algo. En fin, piadosa', 'oyó mis quejas, y quiso ', 'consolarme con las propias.', 'Juez que ha sido delincuente,', '¡qué fácilmente perdona!', 'Y escarmentando en sí misma', '(que por dejar a la ociosa ', 'libertad, al tiempo fácil', 'el remedio de su honra,', 'no le tuvo en mis desdichas),', 'por mejor consejo toma', 'que le siga y que le obligue, ', 'con finezas prodigiosas,', 'a la deuda de mi honor;', 'y para que a menos costa', 'fuese, quiso mi fortuna', 'q[ue] en traje de hombre me ponga. ', 'Descolgó una antigua espada', 'que es ésta que ciño. Agora', 'es tiempo que se desnude,', 'como prometí, la hoja,', 'pues confiada en sus señas ', 'me dijo: «Parte a Polonia,', 'y procura que te vean', 'ese acero que te adorna', 'los más nobles; que en alguno', 'podrá ser que hallen piadosa ', 'acogida tus fortunas', 'y consuelo tus congojas.»', 'Llegué a Polonia en efeto.', 'Pasemos, pues que no importa', 'el decirlo, y ya se sabe ', 'que un bruto que se desboca', 'me llevó a tu cueva, adonde', 'tú de mirarme te asombras.', 'Pasemos que allí Clotaldo', 'de mi parte se apasiona, ', 'que pide mi vida al Rey,', 'que el Rey mi vida le otorga,', 'que informado de quién soy,', 'me persuade a que me ponga', 'mi propio traje, y que sirva ', 'a Estrella, donde ingeniosa', 'estorbé el amor de Astolfo', 'y el ser Estrella su esposa.', 'Pasemos que aquí me viste', 'otra vez confuso, y otra ', 'con el traje de mujer', 'confundiste entrambas formas;', 'y vamos a que Clotaldo,', 'persuadido a que le importa', 'que se casen y que reinen ', 'Astolfo y Estrella hermosa,', 'contra mi honor me aconseja', 'que la pretensión disponga.', 'Yo, viendo que tú, ¡oh valiente', 'Segismundo!, a quien hoy toca ', 'la venganza, pues el cielo', 'quiere que la cárcel rompas', 'desa rústica prisión,', 'donde ha sido tu persona', 'al sentimiento una fiera, ', 'al sufrimiento una roca,', 'las armas contra tu patria', 'y contra tu padre tomas,', 'vengo a ayudarte, mezclando', 'entre las galas costosas ', 'de Dïana, los arneses', 'de Palas, vistiendo agora', 'ya la tela y ya el acero,', 'q[ue] entrambos juntos me adornan.', 'Ea, pues, fuerte caudillo, ', 'a los dos juntos importa', 'impedir y deshacer', 'estas concertadas bodas;', 'a mí porque no se case', 'el que mi esposo se nombra, ', 'y a ti porque, estando juntos', 'sus dos estados, no pongan', 'con más poder y más fuerza', 'en duda nuestra vitoria.', 'Mujer, vengo a persuadirte ', 'el remedio de mi honra,', 'y varón, vengo a alentarte', 'a que cobres tu corona.', 'Mujer, vengo a enternecerte', 'cuando a tus plantas me ponga, ', 'y varón, vengo a servirte', 'cuando a tus gentes socorra.', 'Mujer, vengo a que me valgas', 'en mi agravio y mi congoja,', 'y varón, vengo a valerte ', 'con mi acero y mi persona.', 'Y así piensa que si hoy', 'como a mujer me enamoras,', 'como varón te daré', 'la muerte en defensa honrosa ', 'de mi honor; porque he de ser,', 'en su conquista, amorosa,', 'mujer para darte quejas,', 'varón para ganar honras.']",232
+SEGISMUNDO," (Aparte. 
+Cielos, si es verdad que sueño, 
+suspendedme la memoria,
+que no es posible que quepan
+en un sueño tantas cosas.
+¡Válgame Dios! ¡Quién supiera
+o saber salir de todas, 
+o no pensar en ninguna!
+¿Quién vio penas tan dudosas?
+Si soñé aquella grandeza
+en que me vi, ¿cómo agora
+esta mujer me refiere 
+unas señas tan notorias?
+Luego fue verdad, no sueño;
+y si fue verdad, que es otra
+confusión y no menor,
+¿cómo mi vida le nombra 
+sueño? Pues ¿tan parecidas
+a los sueños son las glorias
+que las verdaderas son
+tenidas por mentirosas,
+y las fingidas por ciertas? 
+¿Tan poco hay de unas a otras
+
+que hay cuestión sobre saber
+si lo que se ve y se goza
+es mentira o es verdad?
+¿Tan semejante es la copia 
+al original que hay duda
+en saber si es ella propia?
+Pues si es así, y ha de verse
+desvanecida entre sombras
+la grandeza y el poder, 
+la majestad y la pompa,
+sepamos aprovechar
+este rato que nos toca,
+pues sólo se goza en ella
+lo que entre sueños se goza. 
+Rosaura está en mi poder,
+su hermosura el alma adora.
+Gocemos, pues, la ocasión;
+el amor las leyes rompa
+del valor y confianza 
+con que a mis plantas se postra.
+Esto es sueño; y pues lo es,
+soñemos dichas agora,
+que después serán pesares.
+Mas con mis razones propias 
+vuelvo a convencerme a mí.
+Si es sueño, si es vanagloria,
+¿quién por vanagloria humana
+pierde una divina gloria?
+¿Qué pasado bien no es sueño? 
+¿Quién tuvo dichas heroicas
+que entre sí no diga, cuando
+las revuelve en su memoria:
+«sin duda que fue soñado
+cuanto vi»? Pues si esto toca 
+mi desengaño, si sé
+que es el gusto llama hermosa
+que le convierte en cenizas
+cualquiera viento que sopla,
+
+acudamos a lo eterno; 
+que es la fama vividora,
+donde ni duermen las dichas,
+ni las grandezas reposan.
+Rosaura está sin honor;
+más a un príncipe le toca 
+el dar honor que quitarle.
+¡Vive Dios! que de su honra
+he de ser conquistador
+antes que de mi corona.
+Huyamos de la ocasión, 
+que es muy fuerte). ¡Al arma toca,
+que hoy he de dar la batalla,
+antes que las negras sombras
+sepulten los rayos de oro
+entre verdinegras ondas! ","[' (Aparte. ', 'Cielos, si es verdad que sueño, ', 'suspendedme la memoria,', 'que no es posible que quepan', 'en un sueño tantas cosas.', '¡Válgame Dios! ¡Quién supiera', 'o saber salir de todas, ', 'o no pensar en ninguna!', '¿Quién vio penas tan dudosas?', 'Si soñé aquella grandeza', 'en que me vi, ¿cómo agora', 'esta mujer me refiere ', 'unas señas tan notorias?', 'Luego fue verdad, no sueño;', 'y si fue verdad, que es otra', 'confusión y no menor,', '¿cómo mi vida le nombra ', 'sueño? Pues ¿tan parecidas', 'a los sueños son las glorias', 'que las verdaderas son', 'tenidas por mentirosas,', 'y las fingidas por ciertas? ', '¿Tan poco hay de unas a otras', 'que hay cuestión sobre saber', 'si lo que se ve y se goza', 'es mentira o es verdad?', '¿Tan semejante es la copia ', 'al original que hay duda', 'en saber si es ella propia?', 'Pues si es así, y ha de verse', 'desvanecida entre sombras', 'la grandeza y el poder, ', 'la majestad y la pompa,', 'sepamos aprovechar', 'este rato que nos toca,', 'pues sólo se goza en ella', 'lo que entre sueños se goza. ', 'Rosaura está en mi poder,', 'su hermosura el alma adora.', 'Gocemos, pues, la ocasión;', 'el amor las leyes rompa', 'del valor y confianza ', 'con que a mis plantas se postra.', 'Esto es sueño; y pues lo es,', 'soñemos dichas agora,', 'que después serán pesares.', 'Mas con mis razones propias ', 'vuelvo a convencerme a mí.', 'Si es sueño, si es vanagloria,', '¿quién por vanagloria humana', 'pierde una divina gloria?', '¿Qué pasado bien no es sueño? ', '¿Quién tuvo dichas heroicas', 'que entre sí no diga, cuando', 'las revuelve en su memoria:', '«sin duda que fue soñado', 'cuanto vi»? Pues si esto toca ', 'mi desengaño, si sé', 'que es el gusto llama hermosa', 'que le convierte en cenizas', 'cualquiera viento que sopla,', 'acudamos a lo eterno; ', 'que es la fama vividora,', 'donde ni duermen las dichas,', 'ni las grandezas reposan.', 'Rosaura está sin honor;', 'más a un príncipe le toca ', 'el dar honor que quitarle.', '¡Vive Dios! que de su honra', 'he de ser conquistador', 'antes que de mi corona.', 'Huyamos de la ocasión, ', 'que es muy fuerte). ¡Al arma toca,', 'que hoy he de dar la batalla,', 'antes que las negras sombras', 'sepulten los rayos de oro', 'entre verdinegras ondas! ']",77
+ROSAURA,"Señor, ¿pues así te ausentas?
+¿Pues ni una palabra sola
+no te debe mi cuidado,
+no merece mi congoja?
+¿Cómo es posible, señor, 
+que ni me mires ni oigas?
+¿Aun no me vuelves el rostro?","['Señor, ¿pues así te ausentas?', '¿Pues ni una palabra sola', 'no te debe mi cuidado,', 'no merece mi congoja?', '¿Cómo es posible, señor, ', 'que ni me mires ni oigas?', '¿Aun no me vuelves el rostro?']",7
+SEGISMUNDO,"Rosaura, al honor le importa
+por ser piadoso contigo,
+ser cruel contigo agora. 
+No te responde mi voz,
+porque mi honor te responda;
+no te hablo, porque quiero
+que te hablen por mí mis obras;
+ni te miro, porque es fuerza, 
+en pena tan rigurosa,
+que no mire tu hermosura
+quien ha de mirar tu honra.","['Rosaura, al honor le importa', 'por ser piadoso contigo,', 'ser cruel contigo agora. ', 'No te responde mi voz,', 'porque mi honor te responda;', 'no te hablo, porque quiero', 'que te hablen por mí mis obras;', 'ni te miro, porque es fuerza, ', 'en pena tan rigurosa,', 'que no mire tu hermosura', 'quien ha de mirar tu honra.']",11
+ROSAURA," (Aparte.)  
+    ¿Qué enigmas, cielos, son éstas?
+Después de tanto pesar, 
+¡aún me queda que dudar
+con equívocas respuestas!","[' (Aparte.)  ', '    ¿Qué enigmas, cielos, son éstas?', 'Después de tanto pesar, ', '¡aún me queda que dudar', 'con equívocas respuestas!']",5
+CLARÍN,"    Señora, ¿es hora de verte?","['    Señora, ¿es hora de verte?']",1
+ROSAURA,"¡Ay, Clarín! ¿Dónde has estado?","['¡Ay, Clarín! ¿Dónde has estado?']",1
+CLARÍN,"En una torre, encerrado 
+brujuleando mi muerte,
+    y si me da, o no me da;
+y a figura que me diera
+pasante quínola fuera
+mi vida; que estuve ya 
+    para dar un estallido.","['En una torre, encerrado ', 'brujuleando mi muerte,', '    y si me da, o no me da;', 'y a figura que me diera', 'pasante quínola fuera', 'mi vida; que estuve ya ', '    para dar un estallido.']",7
+ROSAURA,¿Por qué?,['¿Por qué?'],1
+CLARÍN,"Porque sé el secreto
+de quién eres, y en efeto,
+  (Dentro, cajas.)
+  Clotaldo... Pero ¿qué ruido
+    es éste?","['Porque sé el secreto', 'de quién eres, y en efeto,', '  (Dentro, cajas.)', '  Clotaldo... Pero ¿qué ruido', '    es éste?']",5
+ROSAURA,"¿Qué puede ser?
+",['¿Qué puede ser?'],1
+CLARÍN,"Que del palacio sitiado
+sale un escuadrón armado
+
+a resistir y vencer
+    el del fiero Segismundo.","['Que del palacio sitiado', 'sale un escuadrón armado', 'a resistir y vencer', '    el del fiero Segismundo.']",4
+ROSAURA,"Pues ¿cómo cobarde estoy 
+y ya a su lado no soy
+un escándalo del mundo,
+    cuando ya tanta crueldad
+cierra sin orden ni ley?
+ (Vase.) ","['Pues ¿cómo cobarde estoy ', 'y ya a su lado no soy', 'un escándalo del mundo,', '    cuando ya tanta crueldad', 'cierra sin orden ni ley?', ' (Vase.) ']",6
+UNOS," (Dentro.) 
+¡Viva n[uest]ro invicto Rey! ","[' (Dentro.) ', '¡Viva n[uest]ro invicto Rey! ']",2
+OTROS," (De[n]tro.) 
+¡Viva nuestra libertad!","[' (De[n]tro.) ', '¡Viva nuestra libertad!']",2
+CLARÍN,"    ¡La libertad y el Rey vivan!
+Vivan muy enhorabuena,
+que a mí nada me da pena,
+como en cuenta me reciban; 
+    que yo, apartado este día
+en tan grande confusión,
+haga el papel de Nerón
+que de nada se dolía.
+    Si bien me quiero doler 
+de algo, y ha de ser de mí;
+escondido, desde aquí
+toda la fiesta he de ver.
+    El sitio es oculto y fuerte
+entre estas peñas. Pues ya 
+la muerte no me hallará,
+dos higas para la muerte.","['    ¡La libertad y el Rey vivan!', 'Vivan muy enhorabuena,', 'que a mí nada me da pena,', 'como en cuenta me reciban; ', '    que yo, apartado este día', 'en tan grande confusión,', 'haga el papel de Nerón', 'que de nada se dolía.', '    Si bien me quiero doler ', 'de algo, y ha de ser de mí;', 'escondido, desde aquí', 'toda la fiesta he de ver.', '    El sitio es oculto y fuerte', 'entre estas peñas. Pues ya ', 'la muerte no me hallará,', 'dos higas para la muerte.']",16
+BASILIO,"    ¿Hay más infelice rey?
+¿Hay padre más perseguido?","['    ¿Hay más infelice rey?', '¿Hay padre más perseguido?']",2
+CLOTALDO,"Ya tu ejército vencido 
+baja sin tino ni ley.","['Ya tu ejército vencido ', 'baja sin tino ni ley.']",2
+ASTOLFO,"    Los traidores vencedores
+quedan.","['    Los traidores vencedores', 'quedan.']",2
+BASILIO,"En batallas tales
+los que vencen son leales,
+los vencidos los traidores. 
+    Huyamos, Clotaldo, pues,
+del crüel, del inhumano
+rigor de un hijo tirano.","['En batallas tales', 'los que vencen son leales,', 'los vencidos los traidores. ', '    Huyamos, Clotaldo, pues,', 'del crüel, del inhumano', 'rigor de un hijo tirano.']",6
+CLARÍN,¡Válgame el cielo!,['¡Válgame el cielo!'],1
+ASTOLFO,"¿Quién es
+    este infelice soldado 
+que a nuestros pies ha caído
+en sangre todo teñido?","['¿Quién es', '    este infelice soldado ', 'que a nuestros pies ha caído', 'en sangre todo teñido?']",4
+CLARÍN,"Soy un hombre desdichado,
+    que por quererme guardar
+de la muerte, la busqué. 
+Huyendo della, topé
+con ella, pues no hay lugar
+    para la muerte secreto.
+De donde claro se arguye
+de quien más su efeto huye 
+es quien se llega a su efeto.
+    Por eso tornad, tornad
+a la lid sangrienta luego;
+que entre las armas y el fuego
+hay mayor seguridad 
+
+    que en el monte más guardado;
+que no hay seguro camino
+a la fuerza del destino
+y a la inclemencia del hado.
+    Y así, aunque a libraros vais 
+de la muerte con hüir,
+mirad que vais a morir,
+si está de Dios que muráis.
+ (Cae dentro.) ","['Soy un hombre desdichado,', '    que por quererme guardar', 'de la muerte, la busqué. ', 'Huyendo della, topé', 'con ella, pues no hay lugar', '    para la muerte secreto.', 'De donde claro se arguye', 'de quien más su efeto huye ', 'es quien se llega a su efeto.', '    Por eso tornad, tornad', 'a la lid sangrienta luego;', 'que entre las armas y el fuego', 'hay mayor seguridad ', '    que en el monte más guardado;', 'que no hay seguro camino', 'a la fuerza del destino', 'y a la inclemencia del hado.', '    Y así, aunque a libraros vais ', 'de la muerte con hüir,', 'mirad que vais a morir,', 'si está de Dios que muráis.', ' (Cae dentro.) ']",22
+BASILIO,"Mirad que vais a morir,
+si está de Dios que muráis. 
+    ¡Qué bien, ay cielos, persuade
+nuestro error, nuestra ignorancia,
+a mayor conocimiento
+este cadáver que habla
+por la boca de una herida, 
+siendo el humor que desata
+sangrienta lengua que enseña
+que son diligencias vanas
+del hombre cuantas dispone
+contra mayor fuerza y causa! 
+Pues yo, por librar de muertes
+y sediciones mi patria,
+vine a entregarla a los mismos
+de quien pretendí librarla.","['Mirad que vais a morir,', 'si está de Dios que muráis. ', '    ¡Qué bien, ay cielos, persuade', 'nuestro error, nuestra ignorancia,', 'a mayor conocimiento', 'este cadáver que habla', 'por la boca de una herida, ', 'siendo el humor que desata', 'sangrienta lengua que enseña', 'que son diligencias vanas', 'del hombre cuantas dispone', 'contra mayor fuerza y causa! ', 'Pues yo, por librar de muertes', 'y sediciones mi patria,', 'vine a entregarla a los mismos', 'de quien pretendí librarla.']",16
+CLOTALDO,"Aunque el hado, señor, sabe 
+todos los caminos, y halla
+a quien busca entre lo espeso
+de dos penas, no es cristiana
+determinación decir
+que no hay reparo a su saña. 
+Sí hay, que el prudente varón
+vitoria del hado alcanza;
+y si no estás reservado
+de la pena y la desgracia,
+haz por donde te reserves. ","['Aunque el hado, señor, sabe ', 'todos los caminos, y halla', 'a quien busca entre lo espeso', 'de dos penas, no es cristiana', 'determinación decir', 'que no hay reparo a su saña. ', 'Sí hay, que el prudente varón', 'vitoria del hado alcanza;', 'y si no estás reservado', 'de la pena y la desgracia,', 'haz por donde te reserves. ']",11
+ASTOLFO,"Clotaldo, señor, te habla
+como prudente varón
+que madura edad alcanza,
+yo como joven valiente.
+Entre las espesas ramas 
+dese monte está un caballo,
+veloz aborto del aura;
+huye en él, que yo entre tanto
+te guardaré las espaldas.","['Clotaldo, señor, te habla', 'como prudente varón', 'que madura edad alcanza,', 'yo como joven valiente.', 'Entre las espesas ramas ', 'dese monte está un caballo,', 'veloz aborto del aura;', 'huye en él, que yo entre tanto', 'te guardaré las espaldas.']",9
+BASILIO,"Si está de Dios que yo muera, 
+o si la muerte me aguarda,
+aquí, hoy la quiero buscar,
+esperando cara a cara.","['Si está de Dios que yo muera, ', 'o si la muerte me aguarda,', 'aquí, hoy la quiero buscar,', 'esperando cara a cara.']",4
+SEGISMUNDO,"En lo intrincado del monte,
+entre sus espesas ramas, 
+el Rey se esconde. Seguilde,
+no quede en sus cumbres planta
+que no examine el cuidado,
+tronco a tronco, y rama a rama.","['En lo intrincado del monte,', 'entre sus espesas ramas, ', 'el Rey se esconde. Seguilde,', 'no quede en sus cumbres planta', 'que no examine el cuidado,', 'tronco a tronco, y rama a rama.']",6
+CLOTALDO,"¡Huye, señor!","['¡Huye, señor!']",1
+BASILIO,"¿Para qué?
+",['¿Para qué?'],1
+ASTOLFO,¿Qué intentas?,['¿Qué intentas?'],1
+BASILIO,"Astolfo, aparta.","['Astolfo, aparta.']",1
+CLOTALDO,¿Qué intentas?,['¿Qué intentas?'],1
+BASILIO,"Hacer, Clotaldo,
+un remedio que me falta.
+Si a mí buscándome vas,
+ya estoy, príncipe, a tus plantas; 
+sea dellas blanca alfombra
+esta nieve de mis canas.
+Pisa mi cerviz, y huella
+mi corona; postra, arrastra
+mi decoro y mi respeto; 
+toma de mi honor venganza;
+
+sírvete de mí cautivo;
+y tras prevenciones tantas,
+cumpla el hado su homenaje,
+cumpla el cielo su palabra. ","['Hacer, Clotaldo,', 'un remedio que me falta.', 'Si a mí buscándome vas,', 'ya estoy, príncipe, a tus plantas; ', 'sea dellas blanca alfombra', 'esta nieve de mis canas.', 'Pisa mi cerviz, y huella', 'mi corona; postra, arrastra', 'mi decoro y mi respeto; ', 'toma de mi honor venganza;', 'sírvete de mí cautivo;', 'y tras prevenciones tantas,', 'cumpla el hado su homenaje,', 'cumpla el cielo su palabra. ']",14
+SEGISMUNDO,"Corte ilustre de Polonia,
+que de admiraciones tantas
+sois testigos, atended,
+que vuestro príncipe os habla.
+Lo que está determinado 
+del cielo, y en azul tabla
+Dios con el dedo escribió,
+de quien son cifras y estampas
+tantos papeles azules
+que adornan letras doradas, 
+nunca miente, nunca engaña,
+porque quien miente y engaña
+es quien, para usar mal dellas,
+las penetra y las alcanza.
+Mi padre, que está presente, 
+por excusarse a la saña
+de mi condición, me hizo
+un bruto, una fiera humana;
+de suerte que, cuando yo
+por mi nobleza gallarda, 
+por mi sangre generosa,
+por mi condición bizarra,
+hubiera nacido dócil
+y humilde, sólo bastara
+tal género de vivir, 
+tal linaje de crianza,
+a hacer fieras mis costumbres.
+¡Qué buen modo de estorbarlas!
+Si a cualquier hombre dijesen:
+«Alguna fiera inhumana 
+te dará muerte», ¿escogiera
+buen remedio en despertalla
+cuando estuviese durmiendo?
+Si dijeran: «Esta espada
+
+que traes ceñida ha de ser 
+quien te dé la muerte», vana
+diligencia de evitarlo
+fuera entonces desnudarla
+y ponérsela a los pechos.
+Si dijesen: «Golfos de agua 
+han de ser tu sepultura
+en monumentos de plata»,
+mal hiciera en darse al mar,
+cuando soberbio levanta
+rizados montes de nieve, 
+de cristal crespas montañas.
+Lo mismo le ha sucedido
+que a quien, porque le amenaza
+una fiera, la despierta;
+que a quien, temiendo una espada 
+la desnuda; y que a quien mueve
+las ondas de una borrasca;
+y cuando fuera (escuchadme)
+dormida fiera mi saña,
+templada espada mi furia, 
+mi rigor quieta bonanza,
+la fortuna no se vence
+con injusticia y venganza,
+porque antes se incita más.
+Y así, quien vencer aguarda 
+a su fortuna, ha de ser
+con prudencia y con templanza.
+No antes de venir el daño
+se reserva ni se guarda
+quien le previene; que aunque 
+puede humilde (cosa es clara)
+reservarse dél, no es
+sino después que se halla
+en la ocasión, porque aquesta
+no hay camino de estorbarla. 
+Sirva de ejemplo este raro
+espectáculo, esta extraña
+
+admiración, este horror,
+este prodigio; pues nada
+es más que llegar a ver, 
+con prevenciones tan varias,
+rendido a mis pies a un padre,
+y atropellado a un monarca.
+Sentencia del cielo fue;
+por más que quiso estorbarla 
+él no pudo, ¿y podré yo
+que soy menor en las canas,
+en el valor y en la ciencia
+vencerla? Señor, levanta,
+dame tu mano; que ya 
+que el cielo te desengaña
+de que has errado en el modo
+de vencerle, humilde aguarda
+mi cuello a que tú te vengues;
+rendido estoy a tus plantas. ","['Corte ilustre de Polonia,', 'que de admiraciones tantas', 'sois testigos, atended,', 'que vuestro príncipe os habla.', 'Lo que está determinado ', 'del cielo, y en azul tabla', 'Dios con el dedo escribió,', 'de quien son cifras y estampas', 'tantos papeles azules', 'que adornan letras doradas, ', 'nunca miente, nunca engaña,', 'porque quien miente y engaña', 'es quien, para usar mal dellas,', 'las penetra y las alcanza.', 'Mi padre, que está presente, ', 'por excusarse a la saña', 'de mi condición, me hizo', 'un bruto, una fiera humana;', 'de suerte que, cuando yo', 'por mi nobleza gallarda, ', 'por mi sangre generosa,', 'por mi condición bizarra,', 'hubiera nacido dócil', 'y humilde, sólo bastara', 'tal género de vivir, ', 'tal linaje de crianza,', 'a hacer fieras mis costumbres.', '¡Qué buen modo de estorbarlas!', 'Si a cualquier hombre dijesen:', '«Alguna fiera inhumana ', 'te dará muerte», ¿escogiera', 'buen remedio en despertalla', 'cuando estuviese durmiendo?', 'Si dijeran: «Esta espada', 'que traes ceñida ha de ser ', 'quien te dé la muerte», vana', 'diligencia de evitarlo', 'fuera entonces desnudarla', 'y ponérsela a los pechos.', 'Si dijesen: «Golfos de agua ', 'han de ser tu sepultura', 'en monumentos de plata»,', 'mal hiciera en darse al mar,', 'cuando soberbio levanta', 'rizados montes de nieve, ', 'de cristal crespas montañas.', 'Lo mismo le ha sucedido', 'que a quien, porque le amenaza', 'una fiera, la despierta;', 'que a quien, temiendo una espada ', 'la desnuda; y que a quien mueve', 'las ondas de una borrasca;', 'y cuando fuera (escuchadme)', 'dormida fiera mi saña,', 'templada espada mi furia, ', 'mi rigor quieta bonanza,', 'la fortuna no se vence', 'con injusticia y venganza,', 'porque antes se incita más.', 'Y así, quien vencer aguarda ', 'a su fortuna, ha de ser', 'con prudencia y con templanza.', 'No antes de venir el daño', 'se reserva ni se guarda', 'quien le previene; que aunque ', 'puede humilde (cosa es clara)', 'reservarse dél, no es', 'sino después que se halla', 'en la ocasión, porque aquesta', 'no hay camino de estorbarla. ', 'Sirva de ejemplo este raro', 'espectáculo, esta extraña', 'admiración, este horror,', 'este prodigio; pues nada', 'es más que llegar a ver, ', 'con prevenciones tan varias,', 'rendido a mis pies a un padre,', 'y atropellado a un monarca.', 'Sentencia del cielo fue;', 'por más que quiso estorbarla ', 'él no pudo, ¿y podré yo', 'que soy menor en las canas,', 'en el valor y en la ciencia', 'vencerla? Señor, levanta,', 'dame tu mano; que ya ', 'que el cielo te desengaña', 'de que has errado en el modo', 'de vencerle, humilde aguarda', 'mi cuello a que tú te vengues;', 'rendido estoy a tus plantas. ']",90
+BASILIO,"Hijo, que tan noble acción
+otra vez en mis entrañas
+te engendra, príncipe eres.
+A ti el laurel y la palma
+se te deben. Tú venciste; 
+corónente tus hazañas.","['Hijo, que tan noble acción', 'otra vez en mis entrañas', 'te engendra, príncipe eres.', 'A ti el laurel y la palma', 'se te deben. Tú venciste; ', 'corónente tus hazañas.']",6
+TODOS,"¡Viva Segismundo, viva!","['¡Viva Segismundo, viva!']",1
+SEGISMUNDO,"Pues que ya vencer aguarda
+mi valor grandes vitorias,
+hoy ha de ser la más alta 
+vencerme a mí. Astolfo dé
+la mano luego a Rosaura,
+pues sabe que de su honor
+es deuda y yo he de cobrarla.","['Pues que ya vencer aguarda', 'mi valor grandes vitorias,', 'hoy ha de ser la más alta ', 'vencerme a mí. Astolfo dé', 'la mano luego a Rosaura,', 'pues sabe que de su honor', 'es deuda y yo he de cobrarla.']",7
+ASTOLFO,"Aunque es verdad que la debo 
+obligaciones, repara
+que ella no sabe quién es;
+y es bajeza y es infamia
+casarme yo con mujer...","['Aunque es verdad que la debo ', 'obligaciones, repara', 'que ella no sabe quién es;', 'y es bajeza y es infamia', 'casarme yo con mujer...']",5
+CLOTALDO,"No prosigas, tente, aguarda; 
+
+porque Rosaura es tan noble
+como tú, Astolfo, y mi espada
+lo defenderá en el campo;
+que es mi hija, y esto basta.","['No prosigas, tente, aguarda; ', 'porque Rosaura es tan noble', 'como tú, Astolfo, y mi espada', 'lo defenderá en el campo;', 'que es mi hija, y esto basta.']",5
+ASTOLFO,¿Qué dices?,['¿Qué dices?'],1
+CLOTALDO,"Que yo hasta verla
+
+casada, noble y honrada,
+no la quise descubrir.
+La historia desto es muy larga;
+pero, en fin, es hija mía.","['Que yo hasta verla', 'casada, noble y honrada,', 'no la quise descubrir.', 'La historia desto es muy larga;', 'pero, en fin, es hija mía.']",5
+ASTOLFO,"Pues siendo así, mi palabra 
+cumpliré.","['Pues siendo así, mi palabra ', 'cumpliré.']",2
+SEGISMUNDO,"Pues, porq[ue] Estrella
+no quede desconsolada,
+viendo que príncipe pierde
+de tanto valor y fama,
+de mi propia mano yo 
+con esposo he de casarla
+que en méritos y fortuna
+si no le excede, le iguala.
+Dame la mano.","['Pues, porq[ue] Estrella', 'no quede desconsolada,', 'viendo que príncipe pierde', 'de tanto valor y fama,', 'de mi propia mano yo ', 'con esposo he de casarla', 'que en méritos y fortuna', 'si no le excede, le iguala.', 'Dame la mano.']",9
+ESTRELLA,"Yo gano
+en merecer dicha tanta. ","['Yo gano', 'en merecer dicha tanta. ']",2
+SEGISMUNDO,"A Clotaldo, que leal
+sirvió a mi padre, le aguardan
+mis brazos, con las mercedes
+que él pidiere que le haga.","['A Clotaldo, que leal', 'sirvió a mi padre, le aguardan', 'mis brazos, con las mercedes', 'que él pidiere que le haga.']",4
+[SOLDADO] 1.º,"Si así a quien no te ha servido 
+honras, ¿a mí, que fui causa
+del alboroto del reino,
+y de la torre en que estabas
+te saqué, qué me darás?","['Si así a quien no te ha servido ', 'honras, ¿a mí, que fui causa', 'del alboroto del reino,', 'y de la torre en que estabas', 'te saqué, qué me darás?']",5
+SEGISMUNDO,"La torre; y porque no salgas 
+della nunca hasta morir,
+has de estar allí con guardas;
+que el traidor no es menester
+siendo la traición pasada.","['La torre; y porque no salgas ', 'della nunca hasta morir,', 'has de estar allí con guardas;', 'que el traidor no es menester', 'siendo la traición pasada.']",5
+BASILIO,Tu ingenio a todos admira. ,['Tu ingenio a todos admira. '],1
+ASTOLFO,¡Qué condición tan mudada!,['¡Qué condición tan mudada!'],1
+ROSAURA,¡Qué discreto y qué prudente!,['¡Qué discreto y qué prudente!'],1
+SEGISMUNDO,"¿Qué os admira? ¿Qué os espanta,
+si fue mi maestro un sueño,
+y estoy temiendo en mis ansias 
+que he de despertar y hallarme
+otra vez en mi cerrada
+prisión? Y cuando no sea,
+el soñarlo sólo basta;
+pues así llegué a saber 
+que toda la dicha humana,
+en fin, pasa como sueño.
+Y quiero hoy aprovecharla
+el tiempo que me durare,
+pidiendo de nuestras faltas 
+perdón, pues de pechos nobles
+es tan propio el perdonarlas.","['¿Qué os admira? ¿Qué os espanta,', 'si fue mi maestro un sueño,', 'y estoy temiendo en mis ansias ', 'que he de despertar y hallarme', 'otra vez en mi cerrada', 'prisión? Y cuando no sea,', 'el soñarlo sólo basta;', 'pues así llegué a saber ', 'que toda la dicha humana,', 'en fin, pasa como sueño.', 'Y quiero hoy aprovecharla', 'el tiempo que me durare,', 'pidiendo de nuestras faltas ', 'perdón, pues de pechos nobles', 'es tan propio el perdonarlas.']",15
