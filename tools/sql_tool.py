@@ -5,7 +5,7 @@ load_dotenv()
 import os
 import sys
 import ast
-
+import sqlalchemy as alch
 password = os.getenv('pass_sql')
 dbName="LaVidaEsSueno"
 connectionData=f"mysql+pymysql://root:{password}@localhost/{dbName}"
@@ -39,6 +39,13 @@ def check(que,string):
         
     elif que == "verso":
         query = list(engine.execute(f"SELECT verso_suelto FROM versos WHERE verso_suelto = '{string}'"))
+        if len(query) > 0:
+            return True
+        else:
+            return False
+
+    elif que == "time":
+        query = list(engine.execute(f"SELECT tiempo FROM tiempo WHERE tiempo = {string}"))
         if len(query) > 0:
             return True
         else:
@@ -122,3 +129,10 @@ def superinsercion(df,col1,col2,col3,col4,col5,col6):
 
 
 
+def insertSeg(seg):
+    if check("time ", seg):
+        return "el verso existe en ese tiempo"
+    else:
+        #idtexto = dameId('obra', tex)
+        engine.execute(f"INSERT INTO tiempo (tiempo) VALUES ('{seg}');")
+        return 'insertado'

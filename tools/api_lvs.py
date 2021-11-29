@@ -1,22 +1,28 @@
 from config.configuration import engine
 import random
-import sqltools as sqt
+import sql_tool as sqt
+import sqlalchemy as alch
+import os
+password = os.getenv('pass_sql')
+dbName="LaVidaEsSueno"
+connectionData=f"mysql+pymysql://root:{password}@localhost/{dbName}"
+engine = alch.create_engine(connectionData)
 
 def personajes():
     """
-    hace una selección los nombres de personajes en la tabla characters de mysql
+    hace una selección los nombres de personajes en la tabla personajes de mysql
     """
-    query = list(engine.execute("SELECT distinct(nombre) FROM la.characters;"))
+    query = list(engine.execute("SELECT distinct(nombre) FROM personaje;"))
     return [q[0] for q in query]
 
 
-def random_quote(character):
+def random_poem(perso):
     """
     hace una seleccion del id de un personaje que se pide
     te devuelve una frase random de ese personaje
     """
-    idchar = list(engine.execute(f"SELECT idcharacters FROM characters WHERE nombre ='{character}';"))[0][0]
-    que = list(engine.execute(f"SELECT texto FROM quotes WHERE idcharacters ='{idchar}';"))
+    idper = list(engine.execute(f"SELECT idPersonaje FROM personaje WHERE nombre ='{perso}';"))[0][0]
+    que = list(engine.execute(f"SELECT texto FROM obra WHERE Personaje_idPersonaje ='{idper}';"))
     return random.choice(que)
 
 def random_season(season):
