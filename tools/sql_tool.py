@@ -136,3 +136,24 @@ def insertSeg(seg):
         #idtexto = dameId('obra', tex)
         engine.execute(f"INSERT INTO tiempo (tiempo) VALUES ('{seg}');")
         return 'insertado'
+
+
+def inseId(col,string):
+        engine.execute(f"INSERT INTO senti (ind) VALUES ('{string}');")
+        return 'insertado' 
+def inseSeg(col,string):
+        engine.execute(f"INSERT INTO senti (seg) VALUES ('{string}');")
+        return 'insertado'
+def inseCol(col,string):
+        engine.execute(f"INSERT INTO senti (col) VALUES ('{string}');")
+        return 'insertado'
+
+def insertSenti(df, ind, seg, col):
+    for i,r in df.iterrows():
+        try:
+            inseId(ind, r[ind])          
+            inseSeg(seg, r[seg])
+            inseCol(col, r[col])
+            return 'insertados'
+        except:
+            return f"{i},{Exception}"

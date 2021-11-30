@@ -25,24 +25,7 @@ def random_poem(perso):
     que = list(engine.execute(f"SELECT texto FROM obra WHERE Personaje_idPersonaje ='{idper}';"))
     return random.choice(que)
 
-def random_season(season):
-    """
-    recibe un numero de temporada de friends (Entre el 1 y el 10)
-    devuelve una frase random de esa temporada indicando qué personaje la dice y el título del episodio.
-    """
-    try:
-        idepisodes = list(engine.execute(f"SELECT idEpisodio FROM episodios where idTemporadas = {season};"))
-        idep = random.choice(idepisodes)[0]
-        epi = list(engine.execute(f"SELECT tituloEp FROM episodios where idEpisodio = {idep};"))[0][0]
-        que = list(engine.execute(f"SELECT texto, idcharacters FROM quotes WHERE idEpisodio ={idep};"))
-        line_ch = random.choice(que)
-        char = list(engine.execute(f"SELECT nombre FROM characters WHERE idcharacters = {line_ch[1]};"))[0][0]
-        line = line_ch[0]
-        
-        return f"in episdode '{epi}', from season {season} {char} says '{line}'"
-    except:
-        return "Friends tiene 10 temporadas, elige un número del 1 al 10"
-    
+
 def insertusuario(nombre):
     """º
     recibe el nombre de un nuevo usuario 
@@ -57,17 +40,15 @@ def insertusuario(nombre):
     except:
         return "fallo garrafal"
 
+def insertSeg(seg):
+    if check("time ", seg):
+        return "el verso existe en ese tiempo"
+    else:
+        engine.execute(f"INSERT INTO tiempo (tiempo) VALUES ('{seg}');")
+        return 'insertado'
 
-def newline(temp, epi, charac, line):
-    """
-    recibe temporada, episodio, nombre de presonaje y frase qué ha dicho
-    la inserta en las tablas de mysql.
-    """
-    try:
-        sqt.insertTemp("season",temp)
-        sqt.insertCar("character",charac)
-        sqt.insertEp("episode_title",epi)
-        sqt.insertquote("quote",line,epi,charac)
-        return "inserted"
-    except:
-        return "fallo garrafal"
+def insertSenti(df, ind, seg, col):
+    for i,r in df.iterrows():
+        engine.execute(f"INSERT INTO senti (ind, seg, col) VALUES ('{ind}', '{seg}', '{col}');")
+        return 'insertado'
+
